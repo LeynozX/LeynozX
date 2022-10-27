@@ -1,4 +1,4 @@
-<h1 align="center">salut 👋 , je ' Leynoz</h1><h3 align="center">Apprenez python et Js</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=leynozx&label=Profile%20views&color=0e75b6&style=flat » alt="leynozx » /> </p>
+<h1 align="center">salut 👋 , je suis Leynoz</h1><h3 align="center">Apprenez python et Js</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=leynozx&label=Profile%20views&color=0e75b6&style=flat » alt="leynozx » /> </p>
 
 
 
